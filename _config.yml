@@ -16,7 +16,7 @@ description              : "Greetings"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : /assets/images/logo_am.jpg
+logo                     : /assets/images/logo_a.jpg
 header:
   image                   : /assets/images/ashna_pic.png
 
