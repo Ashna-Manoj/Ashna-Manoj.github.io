@@ -17,7 +17,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 header:
-  teaser                   : "/images/ashna_pic1.jpg"
+  image                   : "/images/ashna_pic1.jpg"
 logo                     : "/images/logo_am.jpg"
 
 # breadcrumbs            : false # true, false (default)
